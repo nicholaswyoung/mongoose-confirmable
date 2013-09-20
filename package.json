@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-confirmable",
+  "version": "0.0.1",
+  "description": "quick confirmation plugin for your Mongoose models (designed with Accounts in mind).",
+  "main": "./lib/index.js",
+  "repository": "git://github.com/originalmachine/mongoose-confirmable.git",
+  "dependencies": {
+	  "node-uuid": "latest",
+	  "mongoose": "latest"
+  },
+  "devDependencies": {
+	  "dox": "latest",
+	  "mocha": "latest",
+	  "chai": "latest",
+	  "coffee-script": "latest"
+  },
+  "author": {
+	  "name": "Nicholas Young",
+	  "email": "dev@originalmachine.com",
+	  "url": "http://dev.originalmachine.com"
+  },
+  "scripts": {
+	  "test": "make test"
+  }
+}
