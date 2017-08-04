@@ -1,5 +1,7 @@
 # Mongoose Confirmable
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/mongoose-confirmable.svg)](https://greenkeeper.io/)
+
 Simple confirmation methods for your Mongoose models.
 
 ## Usage
